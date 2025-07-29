@@ -1,1 +1,1 @@
-city : matara
+city: matara
